@@ -265,7 +265,7 @@ affiliated with or endorsed by Valve, AYN, Qualcomm, or the upstream projects li
 
 ## Support and source
 
-- **Issue tracker / source:** *(add your public repository URL here)*  
+- **Issue tracker / source:** *In Progress / Discord soon*  
 - **Version:** `0.4-beta` (`/usr/lib/miarma/version`, `/etc/os-release`)  
 - **Documentation:** `FEATURES.md`, `TODO.md` (English default; Spanish copies under `docs/es/`)
 
