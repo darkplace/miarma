@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="miarma-logo-fondo" src="https://github.com/user-attachments/assets/030ff1ab-cbcd-4efb-a45c-f7e1e88f9ff5" />
+
 # miARMa 0.4-beta — AYN Odin 3 (SM8750)
 
 **miARMa** is a mutable **Arch Linux ARM** (`aarch64`) gaming image for the **AYN Odin 3**
